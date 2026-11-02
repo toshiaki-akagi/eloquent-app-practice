@@ -36,8 +36,13 @@ Eloquent ORMを活用し、投稿を作成・表示・編集・削除できる�
 
 ## 動作確認のスクリーンショット
 1. 「`http://localhost/posts`」にアクセスした時の投稿一覧画面
-![投稿一覧画面](CheckImage_posts_index.png)
+
+   ![投稿一覧画面](CheckImage_posts_index.png)
+
 2. 投稿を新規作成する時の画面
-![投稿作成画面](CheckImage_posts_create.png)
+
+   ![投稿作成画面](CheckImage_posts_create.png)
+
 3. 投稿を編集する時の画面
-![投稿編集画面](CheckImage_posts_edit.png)
+
+   ![投稿編集画面](CheckImage_posts_edit.png)
